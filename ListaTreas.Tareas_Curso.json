@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65281c26687ddacf7f39ec53"
+  },
+  "name": "Laboratorios de express",
+  "descripcion": "Terminar tareas de express",
+  "prioridad": "1",
+  "completado": "false"
+},
+{
+  "_id": {
+    "$oid": "65281c71687ddacf7f39ec54"
+  },
+  "name": "Entregables Nodejs",
+  "descripcion": "Hacer entregable lista de tareas node",
+  "prioridad": "1",
+  "completado": "true"
+},
+{
+  "_id": {
+    "$oid": "65281cb1687ddacf7f39ec55"
+  },
+  "name": "Api",
+  "descripcion": "Revisar material clase Api en plataforma",
+  "prioridad": "2",
+  "completado": "false"
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "652814a2687ddacf7f39ec47"
+  },
+  "name": "cocinar",
+  "descripcion": "Hacer cena de cumpleaños",
+  "prioridad": "1",
+  "completado": "false"
+},
+{
+  "_id": {
+    "$oid": "6528187b687ddacf7f39ec4b"
+  },
+  "name": "Ordenar",
+  "descripcion": "Ordenar la habitacion principal",
+  "prioridad": "1",
+  "completado": "true"
+},
+{
+  "_id": {
+    "$oid": "65281925687ddacf7f39ec4c"
+  },
+  "name": "Compras",
+  "descripcion": "Hacer las compras del super",
+  "prioridad": "2",
+  "completado": "false"
+},
+{
+  "_id": {
+    "$oid": "65281957687ddacf7f39ec4d"
+  },
+  "name": "Ir a la Escuela",
+  "descripcion": "Recoger los niños despues de clase",
+  "prioridad": "1",
+  "completado": "true"
+}]
